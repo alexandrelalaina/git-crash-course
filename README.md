@@ -10,6 +10,8 @@
 
 4. Criação de Hyperlinks
 
+5. Criação referencia
+
 5. Criando Snippets de código
 
 ## Headers
@@ -106,5 +108,14 @@ document.getElementById("teste");
 "age": 25
 }
 ```
+
+
+## Criação de auto-referências
+Para criar uma referência a capítulos do próprio Markdown, utiliza-se os símbolos de hyperlink [](). Porém, diferente de hyperlinks externos onde dentro do parênteses, acrescenta-se a url desejada, para links internos colocamos o título do capítulo desejado --- se houver espaço no nome do capítulo, substitua-o por hífen --- com o símbolo # o precedendo.
+Ex: [Tutorial Markdown](#tutorial-markdown)
+
+
+
+[Voltar ao índice](#índice)
 
 
