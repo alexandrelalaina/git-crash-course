@@ -12,7 +12,7 @@
 
 5. Criação referencia
 
-5. Criando Snippets de código
+6. Criando Snippets de código
 
 ## Headers
 
